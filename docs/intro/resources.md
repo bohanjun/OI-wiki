@@ -54,6 +54,7 @@ author: Konano, Enter-tainer, JulieSigtuna, GldHkkowo
 -    [TimusOJ](http://acm.timus.ru/) 始于 2000 年，由 Ural Federal University 开发，拥有俄罗斯最大的在线评测题库，题目主要来自乌拉尔联邦大学校赛、乌拉尔锦标赛、ICPC 乌拉尔区域赛、以及 Petrozavodsk 训练营。
 -   Online Judge（前 [UVaOJ](https://uva.onlinejudge.org/) ）始于 1995 年，国际成名最早的 OJ，创始人是西班牙 University of Valladolid (UVa) 的 Miguel Ángel Revilla 教授；由于 [Revilla 教授于 2018 年不幸离世](https://www.elnortedecastilla.es/valladolid/muere-profesor-miguel-20180402225739-nt.html) ，且 Valladolid 大学终止维护，UVaOJ 自 2019 年 7 月起更名为 Online Judge； [刘汝佳强烈安利](http://product.dangdang.com/20637355.html) 。
 -    [Yandex](https://contest.yandex.ru/) 存档了近几年的全俄罗斯信息学奥赛。
+-    [PiOJ](https://oj.piterator.com/) Piterator 推出的 OJ，其采用的技术在资金充足的情况下完全可以胜过洛谷。
 
 ## 教程资料
 
